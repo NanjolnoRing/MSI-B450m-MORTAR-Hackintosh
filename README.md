@@ -12,7 +12,7 @@ Opencore 版本：0.9.3
 
 更新日期：2023-06-20
 
-
+![](https://github.com/NanjolnoRing/blog-img/blob/main/截屏2023-07-09%2013.20.03.png?raw=true)
 
 
 
