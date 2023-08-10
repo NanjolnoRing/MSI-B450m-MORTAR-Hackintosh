@@ -52,7 +52,7 @@ Opencore 版本：0.9.3
 
 
 ### 注意事项
-
+> 关于睡眠的问题，不要把鼠标接到后面的USB3.0的接口上！！！
 1. **登陆Apple ID前请先使用`Hackintool`等工具重新生成序列号等信息，避免与他人重复**
 2. 如遇到黑屏情况，尝试增加启动参数`agdpmod=pikera`
 3. 需要在引导界面开启HiDPI模式，请将`NVRAM -> Add -> 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14 -> UIScale`设置为`02`
