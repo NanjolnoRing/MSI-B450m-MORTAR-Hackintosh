@@ -4,9 +4,9 @@ MSI B450m MORTAR Hackintosh EFI Config
 
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html) 定制OpenCore引导，**请自行参考进行一些自定义的修改**
 >
-> 此EFI可能会更新不及时，且新版本未进行长时间的测试，请升级OC前对原EFI进行备份，有问题可以随时反馈，请多见谅！
+> 此EFI可能会更新不及时，且新版本未进行长时间的测试，**请升级OC前对原EFI进行备份，有问题可以随时反馈，请多见谅！**
 
-Mac 版本：13.1
+Mac 版本：13.1、13.4 <u>（已测试升级13.4，没有问题，可以直接升级13.4）</u>
 
 Opencore 版本：0.9.3
 
@@ -40,6 +40,7 @@ Opencore 版本：0.9.3
 ##### 不能使用
 
 > 连接蓝牙耳机，系统调节音量功能失效
+> 注：可以使用第三方的音量控制软件
 
 
 
