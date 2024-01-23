@@ -11,7 +11,7 @@ Mac 版本：**14.2.1** （已测试升级）</u>
 Opencore 版本：0.9.7
 更新日期：2024-01-23
 
-![]()
+![](https://raw.githubusercontent.com/NanjolnoRing/blog-img/main/macOS%20sonoma%2014.2.1.jpg?token=GHSAT0AAAAAACNFLHQ3QNW5SKJZT2MACA6UZNPHFBA)
 
 ### 个人配置清单
 
@@ -52,6 +52,4 @@ Opencore 版本：0.9.7
 6. 如遇 APPLE TV+、Netflix 等带有 DRM 的视频解码黑屏问题，请尝试在启动参数中添加`shikigva=80`【感谢[@Butanediol](https://github.com/Butanediol)】
 
 ### 致谢
-* [国光](https://apple.sqlsec.com/)
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html)
-* [黑果小兵的部落阁](https://blog.daliansky.net)
