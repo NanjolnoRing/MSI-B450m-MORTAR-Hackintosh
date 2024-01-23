@@ -1,18 +1,17 @@
 # MSI-B450m-MORTAR-Hackintosh
-MSI B450m MORTAR Hackintosh EFI Config
+微星（MSI）MSI B450m MORTAR Hackintosh 自用EFI 
 ### EFI概述
 
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html) 定制OpenCore引导，**请自行参考进行一些自定义的修改**
 >
-> 此EFI可能会更新不及时，且新版本未进行长时间的测试，**请升级OC前对原EFI进行备份，有问题可以随时反馈，请多见谅！**
+>新版本未进行长时间的测试，**请升级OC前对原EFI进行备份，有问题可以随时反馈，请多见谅！**
 
-Mac 版本：**13.1、13.4.1(c)22F770820d** （已测试升级13.4，可以直接升级13.4.1(c)）</u>
+Mac 版本：**14.2.1** （已测试升级）</u>
 
-Opencore 版本：0.9.3
+Opencore 版本：0.9.7
+更新日期：2024-01-23
 
-更新日期：2023-06-20
-
-![](https://github.com/NanjolnoRing/blog-img/blob/main/img/Snipaste_2023-08-10_22-12-39.png?raw=true)
+![]()
 
 ### 个人配置清单
 
@@ -53,6 +52,6 @@ Opencore 版本：0.9.3
 6. 如遇 APPLE TV+、Netflix 等带有 DRM 的视频解码黑屏问题，请尝试在启动参数中添加`shikigva=80`【感谢[@Butanediol](https://github.com/Butanediol)】
 
 ### 致谢
-
+* [国光](https://apple.sqlsec.com/)
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html)
 * [黑果小兵的部落阁](https://blog.daliansky.net)
